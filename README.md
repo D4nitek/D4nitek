@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Daniel Varela aka Danitek and I'm  a 17 year old programming student
+- 👋 Hi, my name is Daniel Varela aka Danitek and I'm  an 18 year old programming student
 - 📍 Portugal
 - 👀 I’m interested in tech, gaming, programming, anime, etc...
 - 🌱 I’m currently learning flutter, python and javascript
